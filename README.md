@@ -5,13 +5,13 @@
 
 # 📚 Pós-graduação Unyleya
 
-## 📱 Desenvolvimento Mobile
+- 📱 **Desenvolvimento Mobile**
 
-### ⚛️ Desenvolvimento Multiplataforma com React Native
+  - ⚛️ **Desenvolvimento Multiplataforma com React Native**
 
 
 ## Conteúdo:
-Arquivos para uso nas aulas práticas da disciplina **Desenvolvimento Multiplataforma com React Native** da pós-graduação em _Desenvolvimento Mobile_ da **Faculdade Unyleya**
+> Arquivos para uso nas aulas práticas da disciplina **Desenvolvimento Multiplataforma com React Native** da pós-graduação em **Desenvolvimento Mobile** da **Faculdade Unyleya**
 
 ## 🚀 Como baixar os arquivos:
 
